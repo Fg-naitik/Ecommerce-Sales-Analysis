@@ -32,7 +32,7 @@ The goal is to understand product categories, stock levels, sizes, colors, and o
 
 ## 📂 Project Structure
 
-```text
+
 Ecommerce-Sales-Analysis/
 │
 ├── data/
@@ -47,6 +47,8 @@ Ecommerce-Sales-Analysis/
 │
 ├── Ecommerce-sales-analysis.ipynb
 └── README.md
+
+
 ## 📌 Conclusion
 
 The analysis explored an e-commerce product dataset using Python, Pandas,
