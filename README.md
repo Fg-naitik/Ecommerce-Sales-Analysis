@@ -30,9 +30,20 @@ The goal is to understand product categories, stock levels, sizes, colors, and o
 
 ---
 
+## 📌 Conclusion
+
+The analysis explored an e-commerce product dataset using Python, Pandas,
+Matplotlib, and Seaborn. The data was cleaned and analyzed to understand
+product categories, inventory levels, sizes, colors, and stock distribution.
+
+The visualizations helped identify patterns in product distribution and
+inventory, providing a clearer understanding of the dataset.
+
+This project demonstrates the use of data cleaning, exploratory data
+analysis, statistical summaries, and data visualization using Python.
 ## 📂 Project Structure
 
-
+```text
 Ecommerce-Sales-Analysis/
 │
 ├── data/
@@ -47,16 +58,3 @@ Ecommerce-Sales-Analysis/
 │
 ├── Ecommerce-sales-analysis.ipynb
 └── README.md
-
-
-## 📌 Conclusion
-
-The analysis explored an e-commerce product dataset using Python, Pandas,
-Matplotlib, and Seaborn. The data was cleaned and analyzed to understand
-product categories, inventory levels, sizes, colors, and stock distribution.
-
-The visualizations helped identify patterns in product distribution and
-inventory, providing a clearer understanding of the dataset.
-
-This project demonstrates the use of data cleaning, exploratory data
-analysis, statistical summaries, and data visualization using Python.
